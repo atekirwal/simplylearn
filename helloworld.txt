@@ -1,2 +1,3 @@
 hi there
-adding a line tfor feature 1
+added line for feature 1
+
